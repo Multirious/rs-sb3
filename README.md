@@ -1,3 +1,6 @@
+# Deprecated
+This repository has been moved to [rusty-scratch/mc-sbity](https://github.com/rusty-scratch/mc-sbity)
+
 # rs-sb3
 
 Rust crate with Serde implementation for json part in .sb3 format. (the Scratch 3 project format)
