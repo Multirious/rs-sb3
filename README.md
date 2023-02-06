@@ -1,7 +1,7 @@
 # Deprecated
-This repository has been moved to [rusty-scratch/sbity](https://github.com/rusty-scratch/sbity)
+This repository has been moved to [rusty-scratch/sb-sbity](https://github.com/rusty-scratch/sb-sbity)
 
-Crate is [sbity](https://crates.io/crates/sbity)
+Crate is [sb-sbity](https://crates.io/crates/sbity)
 
 # rs-sb3
 
